@@ -8,7 +8,7 @@ describe('Boling', function() {
 	//});
 
 	it('function 01', function() {
-        array = [0,0,0,0,0,0,0,0,0,0];
+        array = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 		expect(boling.total(array)).toEqual(0);
 	});
 

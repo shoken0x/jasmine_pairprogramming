@@ -1,1 +1,5 @@
-jasmine_pairprogramming
+# Phase 1
+
+## 10回全部ガターを投げてトータル0
+
+## 20回全部1ピンと倒してトータル20

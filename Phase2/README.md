@@ -1,1 +1,5 @@
-jasmine_pairprogramming
+# Phase2
+
+## 1回スペアがある場合
+
+## 1回ストライクがある場合

@@ -1,7 +1,7 @@
 function Boling() {
 
 }
-Boling.prototype.total = function() {
-    return 0;
+Boling.prototype.total = function(score) {
+    return score;
 }
 

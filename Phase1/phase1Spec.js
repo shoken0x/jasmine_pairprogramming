@@ -3,12 +3,18 @@ describe('Boling', function() {
       boling = new Boling();
     });
 
-	it('All Gater total 0', function() {
-		expect(boling.total(0)).toEqual(0);
+	//it('All Gater total 0', function() {
+	//	expect(boling.total()).toEqual(0);
+	//});
+
+	it('function 01', function() {
+        array = [0,0,0,0,0,0,0,0,0,0];
+		expect(boling.total(array)).toEqual(0);
 	});
 
 	it('All 1 pin total 20', function() {
-		expect(boling.total(20)).toEqual(20);
+        array = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1];
+		expect(boling.total(array)).toEqual(20);
 	});
 });
 
